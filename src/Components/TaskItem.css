@@ -1,0 +1,10 @@
+/* TaskItem.css */
+.completed {
+    text-decoration: line-through;
+    color: #6c757d;
+  }
+  
+  .completed button {
+    background-color: #6c757d;
+  }
+  
